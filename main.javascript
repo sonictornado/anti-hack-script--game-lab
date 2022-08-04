@@ -1,4 +1,5 @@
 prompt("made by sonic tornado");
+//copy to code.org game
 //add userid
 var scriptowner = "";
 //add your key value names to the empty spots
